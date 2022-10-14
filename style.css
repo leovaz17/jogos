@@ -1,4 +1,13 @@
+body{
+ background-color: black;
+    color: white;
+}
 h1{
-color: darkmagenta;
+ text-align: center;   
+}
 
+.imagem{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
 }
